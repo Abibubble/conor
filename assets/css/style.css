@@ -1,3 +1,5 @@
+/* ------------------------------------------------------------------------------------- Global styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -5,9 +7,46 @@
 }
 
 body {
-    background-color: skyBlue;
+    background-color: #a2daff;
     height: 100vh;
     width: 100vw;
     text-align: center;
     font-family: 'Lato', sans-serif;
+    color: #fff;
 }
+
+/* ------------------------------------------------------------------------------------- Header */
+
+header {
+    height: 100vh;
+    align-content: center;
+}
+
+.header-container {
+    height: 80vh;
+    width: 100%;
+    background: url(https://i.imgur.com/7IZiJzt.jpg) no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.header-text-container {
+    background-color: #000;
+    height: fit-content;
+    width: 100%;
+}
+
+h1 {
+    font-size: 250%;
+    padding: 15px;
+}
+
+/* ------------------------------------------------------------------------------------- Main section */
