@@ -72,6 +72,11 @@ p {
     margin: 20px auto;
 }
 
+.heading {
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
 /* ------------------------------------------------------------------------------------- Images */
 
 .image-container {
