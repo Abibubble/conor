@@ -25,7 +25,7 @@ header {
 .header-container {
     height: 80vh;
     width: 100vw;
-    background: url(https://i.imgur.com/7IZiJzt.jpg) no-repeat bottom right fixed;
+    background: url(https://i.imgur.com/oMjJO6c.jpg) no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -55,7 +55,10 @@ h1 {
 }
 
 .name-text {
-    width: 100vw;
+    width: 40vw;
+    margin: auto;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 15px;
 }
 
 /* ------------------------------------------------------------------------------------- Main section */
