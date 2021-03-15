@@ -16,10 +16,16 @@
 
 <body>
 
-    <header>
+    <header id="home">
         <div class="header-container">
             <div class="header-text-container">
-                <h5><i class="fas fa-camera-retro"></i> This will be a navbar</h5>
+                <h5>
+                    <i class="fas fa-camera-retro"></i>
+                    <a href="#home">Home</a>
+                    <a href="#photos">Photos</a>
+                    <a href="#videos">Videos</a>
+                    <a href="#contact">Contact</a>
+                </h5>
             </div>
             <div class="name-text">
                 <h1>Conor Nye</h1>
@@ -46,7 +52,7 @@
         </p>
     </main>
 
-    <section class="image-container">
+    <section class="image-container" id="photos">
         <h1 class="heading">Photography</h1>
         <img src="https://i.imgur.com/f419nyX.jpg" alt="A girl in shadow at sunrise on the Two Brothers mountain in Rio, Brazil">
         <img src="https://i.imgur.com/eDIat8K.jpg" alt="A photo of a happy couple in the Colluseum in Rome, Italy">
@@ -65,9 +71,19 @@
         <img src="https://i.imgur.com/B5p1zAp.jpg" alt="The Red Arrows at Bournemouth Air Show">
     </section>
 
-    <section>
+    <section id="videos">
         <h1 class="heading">Videography</h1>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/EqXnrUKb3v4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/kovNMkq9a1o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/qwrpx01WE7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/1kNh2r1jl7M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+    </section>
+
+    <section id="contact">
+        <h4>If you'd like to have a chat to see how I can meet your media needs, you can contact me on any of the following:</h4>
+        <p><i class="fas fa-phone"></i> 07842 515 666</p>
+        <p><i class="fas fa-envelope"></i> conornye96@hotmail.co.uk</p>
     </section>
 
     <script src="assets/js/script.js" async></script>
