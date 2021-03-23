@@ -1,19 +1,18 @@
-# Title
+# Conor Nye
 
-![GitHub contributors](https://img.shields.io/github/contributors/abibubble/REPO)
-![GitHub last commit](https://img.shields.io/github/last-commit/abibubble/REPO)
-![GitHub language count](https://img.shields.io/github/languages/count/abibubble/REPO)
-![GitHub top language](https://img.shields.io/github/languages/top/abibubble/REPO)
+![GitHub contributors](https://img.shields.io/github/contributors/abibubble/conor)
+![GitHub last commit](https://img.shields.io/github/last-commit/abibubble/conor)
+![GitHub language count](https://img.shields.io/github/languages/count/abibubble/conor)
+![GitHub top language](https://img.shields.io/github/languages/top/abibubble/conor)
 ![Font Awesome version](https://img.shields.io/badge/Font%20Awesome-v5.15.1-blue)
-![GitHub forks](https://img.shields.io/github/forks/abibubble/REPO?style=social)
+![GitHub forks](https://img.shields.io/github/forks/abibubble/conor?style=social)
 
-[Here is a link to the final project](https://abibubble.github.io/REPO)
+[Here is a link to the final project](https://abibubble.github.io/conor)
 
-BASIC DESCRIPTION OF PROJECT
+This is a site built to showcase the portfolio of Conor Nye, and to make it easy for clients to find and contact him.
 It is designed to be responsive on a wide range of devices, whilst also being easy to navigate through. 
-WHY DID I CHOOSE THIS PROJECT
 
-![Final project image home page](assets/images/docs/finalpage.png)
+![Final project image home page](assets/docs/finalpage.png)
 
 ## Contents
 
@@ -88,7 +87,7 @@ WHAT I WANTED FROM THIS PROJECT
 * WHAT IMAGES ARE USED AND WHY
 
 ### Wireframes
-[Here are the wireframes for desktop, mobile and tablet for this project](wireframes.pdf).
+[Here are the wireframes for desktop, mobile and tablet for this project](assets/docs/wireframes.pdf).
 
 ### Features
 * WHAT FEATURES ARE ONE THE SITE, LIKE SCOREBOARD, FUNCTIONS, SCROLLING ALERT BAR, ETC.
@@ -129,7 +128,7 @@ BOOTSTRAP, JASMINE TESTING, JQUERY, ETC. USED?
 ### Initial Deployment
 This site was deployed to GitHub Pages by following these steps:
 1. Login or Sign Up to [GitHub](www.github.com).
-2. Create a new repository named "REPO".
+2. Create a new repository named "conor".
 3. Once created, click on "Settings" on the navigation bar under the repository title.
 4. Scroll down to "GitHub Pages".
 5. Under "Source", choose which branch to deploy. I chose "master", but this is sometimes shown as "main".
@@ -139,12 +138,12 @@ This site was deployed to GitHub Pages by following these steps:
 
 ### How to Fork it
 1. Login or Sign Up to [GitHub](www.github.com).
-2. On GitHub, go to [Abibubble/REPO](https://github.com/Abibubble/REPO).
+2. On GitHub, go to [Abibubble/conor](https://github.com/Abibubble/conor).
 3. In the top right, click "Fork".
 
 ### How to Clone it
 1. Login or Sign Up to [GitHub](www.github.com).
-2. Fork the repository Abibubble/REPO using the steps above in [How to Fork it](#how-to-fork-it).
+2. Fork the repository Abibubble/conor using the steps above in [How to Fork it](#how-to-fork-it).
 3. Above the file list, click "Code".
 4. Choose if you want to clone using HTTPS, SSH, or GitHub CLI, then click the copy button to the right.
 5. Open Git Bash.
@@ -153,7 +152,7 @@ This site was deployed to GitHub Pages by following these steps:
 8. Press Enter to create your clone.
 
 ### Making a Local Clone
-1. Log in to [GitHub](www.github.com) and locate the [Repository](https://github.com/Abibubble/cv) for this site.
+1. Log in to [GitHub](www.github.com) and locate the [Repository](https://github.com/Abibubble/conor) for this site.
 2. Under the repository name, above the list of files, click "Code".
 3. Here you can either Clone or Download the repository.
 4. You should clone the repository using HTTPS, clicking on the icon to copy the link.
@@ -197,7 +196,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 * HOW THE SITE COMPLETEES EACH GOAL
 
 ### Full Testing
-[Click here](testing.md) to view the full testing steps that were completed on every device and browser, and screenshots of testing.
+[Click here](assets/docs/testing.md) to view the full testing steps that were completed on every device and browser, and screenshots of testing.
 
 #### Desktop / Laptop
 1. Google Chrome
@@ -262,10 +261,10 @@ Friends, family members, and other developers were asked to review the site and 
 I tested my website using DevTools Lighthouse feature, and got these results:
 
 #### Desktop
-![Lighthouse desktop first try](assets/images/docs/lighthouse.png)
+![Lighthouse desktop first try](assets/docs/lighthouse.png)
 
 #### Mobile
-![Lighthouse mobile first try](assets/images/docs/lighthousemobile.png)
+![Lighthouse mobile first try](assets/docs/lighthousemobile.png)
 
 #### Performance:
 * EXPLAIN SCORE AND HOW I IMPROVED IT IF NECESSARY
