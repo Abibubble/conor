@@ -286,7 +286,9 @@ I tested my website using DevTools Lighthouse feature, and got these results:
 * ANY CODE I USED FROM OTHER PEOPLE OR SITES AND WHO IT'S FROM, INCLUDING CREDITING ANYONE WHO HELPED ME FIX BUGS
 
 ### Audio
-* WHO OWNS THE AUDIO AND WHO EDITED THE AUDIO
+* All audio is owned by the bands in the videos. Each band will be credited here:
+    * [Lead Shot Hazard](www.leadshothazard.co.uk)
+    * [Just Say Nay](https://www.facebook.com/justsaynayuk/)
 
 ### Content
 * WHO OWNS THE CONTENT OF THE SITE
@@ -295,7 +297,6 @@ I tested my website using DevTools Lighthouse feature, and got these results:
 * WHO OWNS ANY MEDIA ON THE SITE, SUCH AS IMAGES AND VIDEOS
 
 ### Acknowledgements
-* My mentor, Antonio Rodriguez, at [Code Institute](https://codeinstitute.net/), for continuous helpful feedback and support.
 * Eve Crabb, for her support through my learning, and for being a sounding board for bug fixes.
 * Tom Crabb, for his advice on how to make my code cleaner.
 * The team at [Code Institute](https://codeinstitute.net/), for teaching me the necessary skills to create this site.
