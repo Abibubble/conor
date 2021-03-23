@@ -291,10 +291,11 @@ I tested my website using DevTools Lighthouse feature, and got these results:
     * [Just Say Nay](https://www.facebook.com/justsaynayuk/)
 
 ### Content
-* WHO OWNS THE CONTENT OF THE SITE
+* All photos and videos on this site are owned by Conor Nye.
 
 ### Media
-* WHO OWNS ANY MEDIA ON THE SITE, SUCH AS IMAGES AND VIDEOS
+* All photos on this site were taken by Conor Nye.
+* All videos on this site were filmed by Conor Nye.
 
 ### Acknowledgements
 * Eve Crabb, for her support through my learning, and for being a sounding board for bug fixes.
