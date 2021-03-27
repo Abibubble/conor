@@ -70,7 +70,10 @@ that showcases his skills.
 * Main focus is his photos and videos.
 
 #### First Time Visitor Goals
-* WHAT A FIRST TIME VISITOR WANTS, LIKE EASY TO UNDERSTAND, EASY TO NAVIGATE
+* Easy to view portfolio.
+* Easy to find photos.
+* Easy to find videos.
+* Easy to find contact information.
 
 #### Returning Visitor Goals
 * LIKE REPLAYABILITY, WHY THEY WANT TO RETURN TO THE SITE, EXTRA FEATURES
