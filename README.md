@@ -101,7 +101,8 @@ accessibility. Black overlays are also used in 0.3 - 0.6 opacity to allow text t
 * WHAT FEATURES ARE ONE THE SITE, LIKE SCOREBOARD, FUNCTIONS, SCROLLING ALERT BAR, ETC.
 
 ### Audio
-* WHAT AUDIO IS USED (IF ANY) AND WHY.
+* The only audio used in this site is on the videos. The audio on these videos was recorded by Conor Nye, but the band who performed in the video owns all rights to the audio. 
+Permission has been granted to allow this audio to be featured on this site.
 ---
 
 ## Technologies Used
