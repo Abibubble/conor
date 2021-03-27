@@ -98,7 +98,9 @@ accessibility. Black overlays are also used in 0.3 - 0.6 opacity to allow text t
 [Here are the wireframes for desktop, mobile and tablet for this project](assets/docs/wireframes.pdf).
 
 ### Features
-* WHAT FEATURES ARE ONE THE SITE, LIKE SCOREBOARD, FUNCTIONS, SCROLLING ALERT BAR, ETC.
+* Photos
+* Videos
+* Fully responsive design
 
 ### Audio
 * The only audio used in this site is on the videos. The audio on these videos was recorded by Conor Nye, but the band who performed in the video owns all rights to the audio. 
