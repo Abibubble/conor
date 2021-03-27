@@ -221,10 +221,11 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 
 #### Returning Visitor Goals
 ##### On returning, new photos or videos are easy to find.
-* 
+* New photos and videos will always be added at the top of their sections.
 
 ##### Easy to find contact information.
-* 
+* Contact information can be found by scrolling to the bottom of the page.
+* Contact information can also be accessed instantly via the navigation bar.
 
 
 #### Frequent Visitor Goals
