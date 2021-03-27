@@ -188,20 +188,42 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 
 ### Testing User Stories
 #### Client Goals
-##### GOAL
-* HOW THE SITE COMPLETEES EACH GOAL
+##### Shows portfolio of work easily.
+* 
+
+##### Simple to find contact information.
+* 
+
+##### Main focus is his photos and videos.
+* 
+
 
 #### First Time Visitor Goals
-##### GOAL
-* HOW THE SITE COMPLETEES EACH GOAL
+##### Easy to view portfolio.
+* 
+
+##### Easy to find photos.
+* 
+
+##### Easy to find videos.
+* 
+
+##### Easy to find contact information.
+* 
+
 
 #### Returning Visitor Goals
-##### GOAL
-* HOW THE SITE COMPLETEES EACH GOAL
+##### On returning, new photos or videos are easy to find.
+* 
+
+##### Easy to find contact information.
+* 
+
 
 #### Frequent Visitor Goals
-##### GOAL
-* HOW THE SITE COMPLETEES EACH GOAL
+##### Easy to find social media links
+* 
+
 
 ### Full Testing
 [Click here](assets/docs/testing.md) to view the full testing steps that were completed on every device and browser, and screenshots of testing.
