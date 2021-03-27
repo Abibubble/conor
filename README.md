@@ -130,8 +130,6 @@ Google DevTools was used to help me find what code correlated to what feature.
 #### Autoprefixer CSS online
 [Autoprefixer CSS online](https://autoprefixer.github.io/) was used to ensure all prefixes for browsers were included correctly.
 
-BOOTSTRAP, JASMINE TESTING, JQUERY, ETC. USED?
-
 ## Deployment
 ### Initial Deployment
 This site was deployed to GitHub Pages by following these steps:
