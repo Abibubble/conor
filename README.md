@@ -227,11 +227,10 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 * Contact information can be found by scrolling to the bottom of the page.
 * Contact information can also be accessed instantly via the navigation bar.
 
-
 #### Frequent Visitor Goals
 ##### Easy to find social media links
-* 
-
+* Social media links are in the footer.
+* Social media links can also be found in the contact section.
 
 ### Full Testing
 [Click here](assets/docs/testing.md) to view the full testing steps that were completed on every device and browser, and screenshots of testing.
