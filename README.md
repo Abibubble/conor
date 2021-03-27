@@ -203,16 +203,20 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 
 #### First Time Visitor Goals
 ##### Easy to view portfolio.
-* 
+* Spotlight images and videos are on the main page.
+* Any extra images that aren't on a spotlight are available via one click on the navigation bar.
 
 ##### Easy to find photos.
-* 
+* Photos are the first section as you scroll down.
+* Photos can also be accessed instantly via the navigation bar.
 
 ##### Easy to find videos.
-* 
+* Videos are the second section as you scroll down.
+* Videos can also be accessed instantly via the navigation bar.
 
 ##### Easy to find contact information.
-* 
+* Contact information can be found by scrolling to the bottom of the page.
+* Contact information can also be accessed instantly via the navigation bar.
 
 
 #### Returning Visitor Goals
