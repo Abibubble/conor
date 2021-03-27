@@ -85,13 +85,14 @@ that showcases his skills.
 ---
 ## Design
 ### Color Scheme
-* WHAT COLORS USED AND WHY
+* The main colors used are black (#000), white (#fff), and a shade of light blue (#a2daff). This is because blue is Conor's favourite color, and the contrast is good for 
+accessibility. Black overlays are also used in 0.3 - 0.6 opacity to allow text to be visible on all photos, depending on the colors within the photo.
 
 ### Typography
 * WHAT FONT AND WHY
 
 ### Imagery
-* WHAT IMAGES ARE USED AND WHY
+* All images used are photos taken by Conor Nye, to showcase his photography skills.
 
 ### Wireframes
 [Here are the wireframes for desktop, mobile and tablet for this project](assets/docs/wireframes.pdf).
