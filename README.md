@@ -60,11 +60,14 @@ It is designed to be responsive on a wide range of devices, whilst also being ea
 ---
 ## User Experience (UX)
 ### Initial Discussion
-WHAT I WANTED FROM THIS PROJECT
+This project was created as a portolfio and business site for Conor Nye, a budding photographer / videographer. He wanted a site to be able to show to prospective clients 
+that showcases his skills.
 
 ### User Stories
 #### Client Goals
-* WHAT THE CLIENT WANTS, NOT THE USER
+* Shows portfolio of work easily.
+* Simple to find contact information.
+* Main focus is his photos and videos.
 
 #### First Time Visitor Goals
 * WHAT A FIRST TIME VISITOR WANTS, LIKE EASY TO UNDERSTAND, EASY TO NAVIGATE
