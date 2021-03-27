@@ -190,14 +190,16 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 ### Testing User Stories
 #### Client Goals
 ##### Shows portfolio of work easily.
-* 
+* All spotlight work is easily visible, both by scrolling down, and via the navigation bar.
 
 ##### Simple to find contact information.
-* 
+* The contact information is accessible via the navigation bar.
+* Contant information is also available by scrolling down to the bottom of the site.
 
 ##### Main focus is his photos and videos.
-* 
-
+* The main hero image is a photo taken by Conor Nye.
+* The first things that appear on the site are his photos, followed by his videos.
+* The site is very basic, and doesn't feature much besides his work, and his contact information.
 
 #### First Time Visitor Goals
 ##### Easy to view portfolio.
