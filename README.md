@@ -76,10 +76,11 @@ that showcases his skills.
 * Easy to find contact information.
 
 #### Returning Visitor Goals
-* LIKE REPLAYABILITY, WHY THEY WANT TO RETURN TO THE SITE, EXTRA FEATURES
+* On returning, new photos or videos are easy to find.
+* Easy to find contact information.
 
 #### Frequent Visitor Goals
-* WHY SOMEONE WOULD COME BACK REPEATEDLY, AND WHAT THEY'D WANT, LIKE EASY TO BOOK SOMETHING, OR A SCOREBOARD, ETC.
+* Easy to find social media links
 
 ---
 ## Design
