@@ -288,7 +288,7 @@ A large amount of testing was done to ensure that all pages were visible or hidd
 Friends, family members, and other developers were asked to review the site and documentation to point out any bugs and/or user experience issues that they came across.
 
 ### Solved Bugs
-1. Page width on mobile is only showing as 2/3rds of the viewport v=width.
+1. Page width on mobile is only showing as 2/3rds of the viewport width.
     * WHAT STEPS I TOOK TO FIX IT
 
 ### Known Bugs
