@@ -260,7 +260,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
     * All tested and working correctly.
 
 2. Safari
-    * 
+    * All tested and working correctly.
 
 3. Samsung Internet
     * 
