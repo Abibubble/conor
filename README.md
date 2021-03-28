@@ -253,7 +253,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
 
 #### Tablet
 1. Safari
-    * 
+    * All tested and working correctly.
 
 #### Mobile
 1. Google Chrome
