@@ -249,7 +249,7 @@ The W3C Markup Validator, W3C CSS Validator and JSHint were used to validate the
     * All tested and working correctly.
 
 5. Safari
-    * 
+    * All tested and working correctly.
 
 #### Tablet
 1. Safari
