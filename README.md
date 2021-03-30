@@ -276,6 +276,7 @@ The website was viewed on a variety of devices, including:
 * iPhone 7
 * iPhone X
 * iPhone 12
+* OPPO Find X2
 * OPPO Find X2 Lite
 * Samsung Galaxy A70
 * Samsung Galaxy S9
