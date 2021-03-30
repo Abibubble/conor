@@ -322,6 +322,7 @@ I tested my website using DevTools Lighthouse feature, and got these results:
 * [Font Awesome](https://fontawesome.com/): Library of icons used for social media and download links.
 * [Autoprefixer CSS online](https://autoprefixer.github.io/): To aid in the CSS prefixing.
 * ANY CODE I USED FROM OTHER PEOPLE OR SITES AND WHO IT'S FROM, INCLUDING CREDITING ANYONE WHO HELPED ME FIX BUGS
+* All other code was written by [Abi Harrison](https://github.com/Abibubble).
 
 ### Audio
 * All audio is owned by the bands in the videos. Each band will be credited here:
@@ -336,7 +337,7 @@ I tested my website using DevTools Lighthouse feature, and got these results:
 * All videos on this site were filmed by Conor Nye.
 
 ### Acknowledgements
-* Eve Crabb, for her support through my learning, and for being a sounding board for bug fixes.
-* Tom Crabb, for his advice on how to make my code cleaner.
+* [Eve Crabb](https://github.com/evecrabb), for her support through my learning, and for being a sounding board for bug fixes.
+* [Tom Crabb](https://github.com/tomcrabb), for his advice on how to make my code cleaner.
 * The team at [Code Institute](https://codeinstitute.net/), for teaching me the necessary skills to create this site.
 * Conor Nye for his continuous support throughout my coding journey.
