@@ -270,6 +270,7 @@ The website was viewed on a variety of devices, including:
 * Custom built desktop PC, running Windows 10
 * Acer Aspire V Nitro Laptop, running Windows 10
 * Lenovo B51 IntelCore i7 Laptop, running Ubuntu 16.04 LTS
+* MacBook Pro (15 inch, 2017), running macOS Catalina
 * MacBookAir7,2 (13-inch, 2017)
 * iPad 6,11 5th generation, running iOS 10.3
 * Amazon Fire tablet 7
