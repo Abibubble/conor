@@ -305,7 +305,7 @@ I tested my website using DevTools Lighthouse feature, and got these results:
 ![Lighthouse mobile first try](assets/docs/lighthousemobile.png)
 
 #### Performance:
-* EXPLAIN SCORE AND HOW I IMPROVED IT IF NECESSARY
+* EXPLAIN SCORE AND HOW I IMPROVED IT IF NECESSARY, INCLUDING SCREENSHOTS
 
 #### Accessibility:
 * EXPLAIN SCORE AND HOW I IMPROVED IT IF NECESSARY
