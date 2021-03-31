@@ -31,13 +31,14 @@ body {
 .navbar-grid {
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 0.30fr);
     gap: 10px;
 }
 
 .navlink {
     text-decoration: none;
     color: #fff;
+    text-align: center;
 }
 
 /* ------------------------------------------------------------------------------------- Header */
