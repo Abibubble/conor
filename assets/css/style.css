@@ -136,3 +136,36 @@ footer {
 .privacy {
     margin: auto;
 }
+
+/* ------------------------------------------------------------------------------------- Media queries */
+
+@media only screen and (max-width: 600px) {
+    .name-text {
+        width: 90%;
+    }
+    h1 {
+        font-size: 200%;
+    }
+    h2 {
+        font-size: 1.5rem;
+    }
+    h3 {
+        font-size: 1.25rem;
+        width: 90%;
+        margin: 0 auto;
+    }
+    h4 {
+        font-size: 1rem;
+    }
+    p {
+        width: 90%;
+        font-size: 0.9rem;
+    }
+    img {
+        width: 43%;
+    }
+    footer {
+        margin-top: 0;
+        padding: 0;
+    }
+}
