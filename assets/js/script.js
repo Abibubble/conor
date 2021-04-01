@@ -10,10 +10,22 @@ copyrightYear();
 
 // -------------------------------------------------------------------- Hover functions
 
-// Change the colors of socials links
+// Change the colors of links
 function hover(id){
     let hoverLink = document.getElementById(id);
     switch (id) {
+        case "nav-home":
+            hoverLink.style.color = "#fed89a";
+            break;
+        case "nav-photos":
+            hoverLink.style.color = "#a2daff";
+            break;
+        case "nav-videos":
+            hoverLink.style.color = "#c8a2c8";
+            break;
+        case "nav-contact":
+            hoverLink.style.color = "#a5e8a5";
+            break;
         case "facebook":
             hoverLink.style.color = "#1298f6";
             break;
