@@ -18,13 +18,13 @@ function hover(id){
             hoverLink.style.color = "#fed89a";
             break;
         case "nav-photos":
-            hoverLink.style.color = "#a2daff";
+            hoverLink.style.color = "#a5e8a5";
             break;
         case "nav-videos":
-            hoverLink.style.color = "#c8a2c8";
+            hoverLink.style.color = "#a2daff";
             break;
         case "nav-contact":
-            hoverLink.style.color = "#a5e8a5";
+            hoverLink.style.color = "#c8a2c8";
             break;
         case "facebook":
             hoverLink.style.color = "#1298f6";
