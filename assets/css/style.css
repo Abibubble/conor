@@ -146,8 +146,8 @@ footer {
     grid-template-columns: repeat(2, 1fr);
 }
 
-.privacy {
-    margin: auto;
+footer p {
+    margin: 2px auto;
 }
 
 /* ------------------------------------------------------------------------------------- Media queries */
