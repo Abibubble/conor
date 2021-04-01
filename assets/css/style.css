@@ -11,7 +11,10 @@ html,body
 }
 
 body {
-    background-color: #a2daff;
+    min-height: 100%;
+    background: linear-gradient(180deg, #fed89a, #a5e8a5, #a2daff, #c8a2c8);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
     text-align: center;
     font-family: 'Lato', sans-serif;
     color: #fff;
