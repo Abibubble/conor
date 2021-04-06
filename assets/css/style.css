@@ -126,6 +126,20 @@ img {
     border-radius: 10px;
 }
 
+img:hover{
+    color: #424242; 
+  -webkit-transition: all .4s ease-in;
+  -moz-transition: all .4s ease-in;
+  -ms-transition: all .4s ease-in;
+  -o-transition: all .4s ease-in;
+  transition: all .4s ease-in;
+  opacity: 1;
+  transform: scale(2);
+  -ms-transform: scale(2); /* IE 9 */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+
+}
+
 /* ------------------------------------------------------------------------------------- Videos */
 
 iframe {
