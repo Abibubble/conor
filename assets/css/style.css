@@ -84,6 +84,36 @@ h1 {
     color: #fff;
 }
 
+/* ------------------------------------------------------------------------------------- Headings */
+
+.heading {
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    font-size: 2.5rem;
+}
+
+.info-header {
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    margin: auto;
+    margin-top: 5%;
+    width: 80%;
+    font-size: 1.75rem;
+    color: #fed89a;
+}
+
+#photos>.heading {
+    color: #a5e8a5;
+}
+
+#videos>.heading {
+    color: #a2daff;
+}
+
+#contact>.heading {
+    color: #c8a2c8;
+}
+
 /* ------------------------------------------------------------------------------------- Main section */
 
 .main-section {
@@ -97,19 +127,6 @@ h1 {
 p {
     width: 70%;
     margin: 20px auto;
-}
-
-.heading {
-    margin-top: 5%;
-    margin-bottom: 2%;
-    font-size: 2.5rem;
-}
-
-.info-header {
-    margin: auto;
-    margin-top: 5%;
-    width: 80%;
-    font-size: 1.75rem;
 }
 
 /* ------------------------------------------------------------------------------------- Images */
