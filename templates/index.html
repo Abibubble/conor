@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="../static/css/style.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 </head>
 
@@ -86,6 +86,20 @@
         <h4>If you'd like to have a chat to see how I can meet your media needs, you can contact me on any of the following:</h4>
         <p><i class="fas fa-phone" aria-hidden="true"></i> 07842 515 666</p>
         <p><i class="fas fa-envelope" aria-hidden="true"></i> conornye96@hotmail.co.uk</p>
+
+        <form method="POST" name="sentMessage" id="contactForm" novalidate>
+            <label>Name</label>
+            <input type="text" placeholder="Name" name="name" id="name" required data-validation-required-message="Please enter your name." />
+            <label>Email Address</label>
+            <input type="email" placeholder="Email Address" name="email" id="email" required data-validation-required-message="Please enter your email address." />
+            <label>Phone Number</label>
+            <input type="tel" placeholder="Phone Number" name="phone" id="phone" required data-validation-required-message="Please enter your phone number." />
+            <label>Message</label>
+            <textarea rows="5" placeholder="Message" name="message" id="message" required data-validation-required-message="Please enter a message." ></textarea>
+            <br />
+            <div id="success"></div>
+            <button type="submit" id="sendMessageButton">Send</button>
+          </form>
     </section>
 
     <footer>
@@ -95,6 +109,7 @@
             <a href="https://www.youtube.com/" target="_blank" rel="noopener" class="social-image" id="youtube" onmouseover="hover(this.id)" onmouseout="normal(this.id)"><i class="fab fa-youtube"></i></a>
             <a href="https://www.facebook.com/" target="_blank" rel="noopener" class="social-image" id="facebook" onmouseover="hover(this.id)" onmouseout="normal(this.id)"><i class="fab fa-facebook"></i></a>
             <a href="https://www.instagram.com/" target="_blank" rel="noopener" class="social-image" id="instagram" onmouseover="hover(this.id)" onmouseout="normal(this.id)"><i class="fab fa-instagram"></i></a>
+
         </div>
         <div class="copyright">
             <p>Copyright &copy; Conor Nye <span id="copyright"></span></p>
@@ -103,6 +118,6 @@
         </div>
     </footer>
 
-    <script src="assets/js/script.js" async></script>
+    <script src="../static/js/script.js" async></script>
 </body>
 </html>
