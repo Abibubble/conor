@@ -87,6 +87,16 @@
         <p><i class="fas fa-phone" aria-hidden="true"></i> 07842 515 666</p>
         <p><i class="fas fa-envelope" aria-hidden="true"></i> conornye96@hotmail.co.uk</p>
 
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                <ul class="flashes">
+                    {% for message in messages %}
+                        <li>{{ message }}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        {% endwith %}
+
         <form method="POST" name="sentMessage" id="contactForm" novalidate>
             <label>Name</label>
             <input type="text" placeholder="Name" name="name" id="name" required data-validation-required-message="Please enter your name." />
