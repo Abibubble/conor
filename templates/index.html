@@ -97,19 +97,21 @@
             {% endif %}
         {% endwith %}
 
-        <form method="POST" name="sentMessage" id="contactForm" novalidate>
-            <label>Name</label>
-            <input type="text" placeholder="Name" name="name" id="name" required data-validation-required-message="Please enter your name." />
-            <label>Email Address</label>
-            <input type="email" placeholder="Email Address" name="email" id="email" required data-validation-required-message="Please enter your email address." />
-            <label>Phone Number</label>
-            <input type="tel" placeholder="Phone Number" name="phone" id="phone" required data-validation-required-message="Please enter your phone number." />
-            <label>Message</label>
-            <textarea rows="5" placeholder="Message" name="message" id="message" required data-validation-required-message="Please enter a message." ></textarea>
-            <br />
-            <div id="success"></div>
-            <button type="submit" id="sendMessageButton">Send</button>
-          </form>
+        <div class="form">
+            <form method="POST" name="sentMessage" id="contactForm" novalidate class="form-text">
+                <label>Name</label>
+                <input type="text" class="input-box" placeholder="Name" name="name" id="name" required data-validation-required-message="Please enter your name." />
+                <label>Email Address</label>
+                <input type="email" class="input-box" placeholder="Email Address" name="email" id="email" required data-validation-required-message="Please enter your email address." />
+                <label>Phone Number</label>
+                <input type="tel" class="input-box" placeholder="Phone Number" name="phone" id="phone" required data-validation-required-message="Please enter your phone number." />
+                <label>Message</label>
+                <textarea rows="5" placeholder="Message" name="message" id="message" required data-validation-required-message="Please enter a message." ></textarea>
+                <br />
+                <div id="success"></div>
+                <button type="submit" id="sendMessageButton">Send</button>
+            </form>
+        </div>
     </section>
 
     <footer>
