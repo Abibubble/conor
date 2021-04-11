@@ -39,6 +39,15 @@ body {
     text-align: center;
 }
 
+.nav-offset {
+    position:relative;
+}
+
+.nav-offset span {
+    position: absolute;
+    top: -50px;
+}
+
 /* ------------------------------------------------------------------------------------- Header */
 
 header {
