@@ -171,6 +171,21 @@ iframe {
     margin: auto;
 }
 
+input, label {
+    display: block;
+    width: 250px;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+    margin: auto;
+    margin-bottom: 1%;
+}
+
+textarea {
+    width: 250px;
+    font-family: 'Lato', sans-serif;
+}
+
 /* ------------------------------------------------------------------------------------- Footer */
 
 footer {
