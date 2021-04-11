@@ -290,7 +290,15 @@ Friends, family members, and other developers were asked to review the site and 
 
 ### Solved Bugs
 1. Page width on mobile is only showing as 2/3rds of the viewport width.
-    * WHAT STEPS I TOOK TO FIX IT
+    * I checked my CSS resets, and all looked to be ok, with margins, borders and padding all set to 0, and width and height set to 100vh/vw.
+    * I discovered that sometimes 100vh/vw can cause issues with spacing, so I changed those to 100%.
+    * This didn't solve my issue, so i did some more research.
+    * I found that overflow-x: hidden; quite often can fix this bug, so I added that into my resets, which fixed this bug.
+
+2. Navbar was linking to the exact place that the id took it to, with each header disappearing behind the navbar.
+    * I added a div with relative positioning above each linked header.
+    * I then added a span inside it with absolute positioning and top of -50px.
+    * This didn't effect the page styling and layout, but allows the navbar to show the headers of each section upon navigating via the navbar.
 
 ### Known Bugs
 * ANY BUGS LEFT IN THE CODE AFTER FINAL DEPLOYMENT, FOR FIXING IN FUTURE RELEASES
