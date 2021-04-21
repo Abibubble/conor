@@ -12,7 +12,7 @@
 This is a site built to showcase the portfolio of Conor Nye, and to make it easy for clients to find and contact him.
 It is designed to be responsive on a wide range of devices, whilst also being easy to navigate through. 
 
-![Final project image home page](assets/docs/finalpage.png)
+![Final project image home page](static/images/cnsite.png)
 
 ## Contents
 
